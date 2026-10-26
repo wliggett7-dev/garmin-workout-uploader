@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Secrets and Garmin login tokens
+.env
+.garth/
+.garminconnect/
+
+# Your own workout program: PDFs, the program file, exercise mapping and
+# built workouts stay private (examples/ is the only program content shared)
+*.pdf
+/program.json
+/exercise_map.json
+/workouts/
+
+# macOS clutter
+.DS_Store

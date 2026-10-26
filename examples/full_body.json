@@ -1,0 +1,86 @@
+{
+  "name": "Full Body",
+  "days": [
+    {
+      "week": 1,
+      "day": "Day A",
+      "exercises": [
+        {
+          "exercise": "Barbell Back Squat",
+          "warmup_sets": "2-3",
+          "working_sets": 3,
+          "reps": "5",
+          "rpe": "8",
+          "rest": "~3-4 min",
+          "notes": "Brace hard, sit between your heels."
+        },
+        {
+          "exercise": "DB Bench Press",
+          "warmup_sets": "1",
+          "working_sets": 3,
+          "reps": "8-10",
+          "rpe": "8-9",
+          "rest": "2 min",
+          "sub1": "Machine Chest Press"
+        },
+        {
+          "exercise": "A1. Lat Pulldown",
+          "working_sets": 3,
+          "reps": "10-12",
+          "rpe": "9",
+          "rest": "0 min"
+        },
+        {
+          "exercise": "A2. Lat Stretch",
+          "working_sets": 3,
+          "reps": "30s HOLD",
+          "rest": "90s"
+        },
+        {
+          "exercise": "Plank",
+          "working_sets": 2,
+          "reps": "45s",
+          "rest": "60s"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "day": "Day B",
+      "exercises": [
+        {
+          "exercise": "Romanian Deadlift",
+          "warmup_sets": "2",
+          "working_sets": 3,
+          "reps": "8, 8, 12",
+          "rpe": "8",
+          "rest": "~2-3 min",
+          "notes": "Last set is a lighter back-off set."
+        },
+        {
+          "exercise": "Seated DB Shoulder Press",
+          "warmup_sets": "1",
+          "working_sets": 3,
+          "reps": "10",
+          "rpe": "8-9",
+          "rest": "2 min"
+        },
+        {
+          "exercise": "Cable Row",
+          "working_sets": 2,
+          "reps": "10+5",
+          "rpe": "10",
+          "rest": "2 min",
+          "notes": "Drop set: 10 reps, strip ~30% of the weight, 5 more."
+        },
+        {
+          "exercise": "Push Up",
+          "working_sets": 1,
+          "reps": "AMRAP",
+          "rpe": "10",
+          "rest": "0"
+        }
+      ]
+    }
+  ]
+}
